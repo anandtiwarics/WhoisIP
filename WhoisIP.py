@@ -10,7 +10,7 @@ except Exception as error:
 else:
     c.writerow(['IP Address', 'Country', 'State', 'City', 'Description', 'Name', 'Emails', 'Range'])
 
-__inputFile__ = raw_input("Enter the ip Address: ")
+__inputFile__ = raw_input("Enter the list of IP Address file path: ")
 try:
 
     fileOpne = open(__inputFile__, 'r')

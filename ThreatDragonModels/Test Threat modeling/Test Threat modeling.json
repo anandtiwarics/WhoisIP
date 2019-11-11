@@ -119,6 +119,14 @@
                   "status": "Open",
                   "severity": "Medium",
                   "description": "A generic elevation threat"
+                },
+                {
+                  "ruleId": "b2a6d40d-d3f8-4750-8e4d-c02cc84b13dc",
+                  "title": "Generic spoofing threat",
+                  "type": "Spoofing",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "description": "A generic spoofing threat"
                 }
               ],
               "attrs": {
